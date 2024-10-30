@@ -1,0 +1,22 @@
+Version 1.1 
+
+--------------------------------------------------------------
+
+- fix name and loging name not match
+- fix user can click multiple time
+- fix activate load image multiple time
+- fix incorrect add admin image
+- fix user can send empty gift
+- cleanup code and file
+
+
+Version 1.0 
+
+--------------------------------------------------------------
+
+
+
+- Initial Release.
+
+
+

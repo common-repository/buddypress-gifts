@@ -1,0 +1,226 @@
+# Translation of the WordPress plugin   by .
+# Copyright (C) 2010
+# This file is distributed under the same license as the  package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/buddypress-gifts\n"
+"POT-Creation-Date: 2010-04-23 14:57+0000\n"
+"PO-Revision-Date: 2010-04-23 21:59+0700\n"
+"Last-Translator: warut <warut21@yahoo.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: includes/bp-gifts-admin.php:73
+msgid "Gift item was upload successfully! <br/>"
+msgstr ""
+
+#: includes/bp-gifts-admin.php:79
+msgid "Gifts Image already exist!!"
+msgstr ""
+
+#: includes/bp-gifts-admin.php:83
+msgid "Please upload only JPG GIF or PNG image!!"
+msgstr ""
+
+#: includes/bp-gifts-admin.php:124
+msgid "Gift item was deleted successfully!"
+msgstr ""
+
+#: includes/bp-gifts-admin.php:126
+msgid "Error !!! Can not delete gift item."
+msgstr ""
+
+#: includes/bp-gifts-admin.php:134
+msgid "Gifts Item Admin"
+msgstr ""
+
+#: includes/bp-gifts-admin.php:148
+msgid "Gift name"
+msgstr ""
+
+#: includes/bp-gifts-admin.php:158
+msgid "Category"
+msgstr ""
+
+#: includes/bp-gifts-admin.php:168
+msgid "Point"
+msgstr ""
+
+#: includes/bp-gifts-admin.php:184
+#: includes/bp-gifts-core.php:449
+msgid "Save Settings"
+msgstr ""
+
+#: includes/bp-gifts-admin.php:216
+msgid "Gifts Admin"
+msgstr ""
+
+#: includes/bp-gifts-admin.php:222
+msgid "Settings Updated."
+msgstr ""
+
+#: includes/bp-gifts-admin.php:224
+msgid "Gifts Uploaded."
+msgstr ""
+
+#: includes/bp-gifts-admin.php:236
+msgid "Select Gift Image to Upload *"
+msgstr ""
+
+#: includes/bp-gifts-admin.php:242
+msgid "Upload"
+msgstr ""
+
+#: includes/bp-gifts-admin.php:264
+msgid "Gift Item Editor :"
+msgstr ""
+
+#: includes/bp-gifts-ajax.php:9
+msgid " send "
+msgstr ""
+
+#: includes/bp-gifts-ajax.php:19
+msgid "Gifts was sent !"
+msgstr ""
+
+#: includes/bp-gifts-core.php:168
+msgid "Buddypress Gifts"
+msgstr ""
+
+#: includes/bp-gifts-core.php:168
+msgid "Gifts Setup"
+msgstr ""
+
+#: includes/bp-gifts-core.php:200
+#: includes/bp-gifts-core.php:516
+msgid "Gifts"
+msgstr ""
+
+#: includes/bp-gifts-core.php:409
+msgid "Gifts Settings Header"
+msgstr ""
+
+#: includes/bp-gifts-core.php:417
+msgid "Gifts Settings"
+msgstr ""
+
+#: includes/bp-gifts-core.php:433
+msgid "Changes Saved."
+msgstr ""
+
+#: includes/bp-gifts-core.php:445
+msgid "Do you love clicking checkboxes?"
+msgstr ""
+
+#: includes/bp-gifts-core.php:518
+msgid "Yes"
+msgstr ""
+
+#: includes/bp-gifts-core.php:520
+msgid "No"
+msgstr ""
+
+#: includes/bp-gifts-core.php:528
+msgid "You received new gifts"
+msgstr ""
+
+#: includes/bp-gifts-core.php:618
+msgid "Multiple gifts"
+msgstr ""
+
+#: includes/bp-gifts-core.php:618
+#, php-format
+msgid "%d new gifts, multi-gifts!"
+msgstr ""
+
+#: includes/bp-gifts-core.php:626
+#, php-format
+msgid "%s sent you a gift!"
+msgstr ""
+
+#: includes/bp-gifts-notifications.php:64
+#, php-format
+msgid "%s send gifts to you!"
+msgstr ""
+
+#: includes/bp-gifts-notifications.php:70
+#, php-format
+msgid ""
+"%s sent you a new gifts! Why not send one back?\r\n"
+"\r\n"
+"\r\n"
+"\r\n"
+"Check your new gifts: %s\r\n"
+"\r\n"
+"\r\n"
+"\r\n"
+"\r\n"
+"\r\n"
+"To see %s's profile: %s\r\n"
+"\r\n"
+"\r\n"
+"\r\n"
+"To send %s a gifts: %s\r\n"
+"\r\n"
+"\r\n"
+"\r\n"
+"---------------------\r\n"
+"\r\n"
+msgstr ""
+
+#: includes/bp-gifts-notifications.php:94
+#, php-format
+msgid "To disable these notifications please log in and go to: %s"
+msgstr ""
+
+#: includes/templates/gifts/screen.php:51
+msgid "Your Gifts"
+msgstr ""
+
+#: includes/templates/gifts/screen.php:51
+#, php-format
+msgid "%s' Gifts"
+msgstr ""
+
+#: includes/templates/gifts/screen.php:110
+msgid "Send Gift"
+msgstr ""
+
+#: includes/templates/gifts/screen.php:198
+msgid "Reply"
+msgstr ""
+
+#: includes/templates/gifts/screen.php:208
+msgid "Mark as Favorite"
+msgstr ""
+
+#: includes/templates/gifts/screen.php:208
+msgid "Favorite"
+msgstr ""
+
+#: includes/templates/gifts/screen.php:212
+msgid "Remove Favorite"
+msgstr ""
+
+#: includes/templates/gifts/screen.php:248
+msgid "Post"
+msgstr ""
+
+#: includes/templates/gifts/screen.php:248
+msgid "or press esc to cancel."
+msgstr ""
+
+#: includes/templates/gifts/screen.php:286
+msgid "You still don't have any gift yet!"
+msgstr ""
+
+#: includes/templates/gifts/screen.php:286
+#, php-format
+msgid "Either %s hasn't received any gift yet or they have restricted access"
+msgstr ""
+
